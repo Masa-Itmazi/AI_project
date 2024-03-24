@@ -1,0 +1,138 @@
+.root{
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yNTEtbWluZC0xNS5qcGc.jpg");
+
+}
+#welcomeLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-background-radius: 5px;
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 0%, #9ac9dc 0%, #aea0d7 50%, #fafafa 50%, #cabcd3 100%);
+
+}
+#weightLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+#outLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+
+}
+#outputLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-size: 9px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 0%, #9ac9dc 0%, #aea0d7 50%, #fafafa 50%, #cabcd3 100%);
+
+}
+#packgesLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+
+#vehicleLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+#xLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+#yLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+#capacityLb{
+    -fx-font-family: "Arial Black", Arial, sans-serif;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 5px 10px;
+    -fx-text-fill: #fafafa;
+
+}
+#addBtn {
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px; /* Adjust the size of the icon as needed */
+    -fx-background-position: center; /* Center the icon within the button */
+    -fx-text-fill: #212079; /* Hide the text */
+    -fx-graphic-text-gap: 5px; /* Adjust the gap between the icon and text as needed */
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-transition: box-shadow 0.15s;
+}
+
+#addBtn:pressed {
+    box-shadow: 15px 15px 15px;
+    -fx-background-color: #363e60;}
+#clearBtn{
+-fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px; /* Adjust the size of the icon as needed */
+    -fx-background-position: center; /* Center the icon within the button */
+    -fx-text-fill: #212079; /* Hide the text */
+    -fx-graphic-text-gap: 5px; /* Adjust the gap between the icon and text as needed */
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-transition: box-shadow 0.15s;
+}
+#clearBtn:pressed {
+    box-shadow: 15px 15px 15px;
+    -fx-background-color: #363e60;}
+#simBtn{
+-fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px; /* Adjust the size of the icon as needed */
+    -fx-background-position: center; /* Center the icon within the button */
+    -fx-text-fill: #212079;; /* Hide the text */
+    -fx-graphic-text-gap: 5px; /* Adjust the gap between the icon and text as needed */
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-transition: box-shadow 0.15s;
+}
+#simBtn:pressed {
+    box-shadow: 15px 15px 15px;
+    -fx-background-color: #363e60;}
+#cspBtn{
+-fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px; /* Adjust the size of the icon as needed */
+    -fx-background-position: center; /* Center the icon within the button */
+    -fx-text-fill: #212079;; /* Hide the text */
+    -fx-graphic-text-gap: 5px; /* Adjust the gap between the icon and text as needed */
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+    -fx-transition: box-shadow 0.15s;
+}
+#cspBtn:pressed {
+    box-shadow: 15px 15px 15px;
+    -fx-background-color: #363e60;}
+
